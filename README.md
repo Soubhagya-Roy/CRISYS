@@ -1,6 +1,3 @@
-# CRISYS
-Criiminal Recognition And Identification System
-
 
 # CRISYS - Criminal Recognition and Identification System
 
