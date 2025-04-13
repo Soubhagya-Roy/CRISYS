@@ -20,7 +20,6 @@ To develop an intelligent and ethical system that:
 - **Text-to-Sketch Generation** using NLP and Stable Diffusion.
 - **Prompt Condensation** for efficient, structured AI inputs.
 - **RGB to Pencil Sketch Conversion** via OpenCV.
-- **Criminal Identification Module** (optional): Matches generated images with an existing criminal database.
 - **Ethical AI Protocols** including bias mitigation and privacy protection.
 
 ---
