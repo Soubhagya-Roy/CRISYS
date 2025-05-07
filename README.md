@@ -21,6 +21,7 @@ To develop an intelligent and ethical system that:
 - **Prompt Condensation** for efficient, structured AI inputs.
 - **RGB to Pencil Sketch Conversion** via OpenCV.
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png" width="95">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png" width="100"/>
+
 - **Ethical AI Protocols** including bias mitigation and privacy protection.
 
 ---
