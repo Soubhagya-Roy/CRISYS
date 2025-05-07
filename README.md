@@ -32,7 +32,7 @@ To develop an intelligent and ethical system that:
 <img src="https://raw.githubusercontent.com/CompVis/stable-diffusion/main/assets/stable-samples/txt2img/merged-0005.png" width="500"><br>
 - **Natural Language Processing** for parsing user descriptions
 - **OpenCV** for image processing & sketch conversion<br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRklXyWQy1ditXPl8oBPdbcdjxuiVU3Z3VA&s" width=""><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRklXyWQy1ditXPl8oBPdbcdjxuiVU3Z3VA&s" width="100"><br>
 - **FFHQ Dataset** for model training and evaluation<br>
 <img src="https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png" width="200"><br>
 - **Python** for backend implementation
