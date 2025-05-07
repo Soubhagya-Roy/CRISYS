@@ -28,11 +28,12 @@ To develop an intelligent and ethical system that:
 
 ## Technologies Used
 
-- **Stable Diffusion v1.4** via Hugging Face Diffusers
+- **Stable Diffusion v1.4** via Hugging Face Diffusers<br>
+<img src="https://raw.githubusercontent.com/CompVis/stable-diffusion/main/assets/stable-samples/txt2img/merged-0005.png" width="300">
 - **Natural Language Processing** for parsing user descriptions
 - **OpenCV** for image processing & sketch conversion
 - **FFHQ Dataset** for model training and evaluation<br>
-<img src="https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png" width="95">&nbsp;<img src="https://raw.githubusercontent.com/CompVis/stable-diffusion/main/assets/stable-samples/txt2img/merged-0005.png" width="95">
+<img src="https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png" width="95">
 - **Python** for backend implementation
 - **FID & Inception Score** for performance metrics
 
