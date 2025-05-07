@@ -76,16 +76,6 @@ To develop an intelligent and ethical system that:
 
 ---
 
-## Future Scope
-
-- Real-time CCTV feed integration.
-- AR/VR overlay support for field identification.
-- Advanced suspect profiling (age progression, emotion adaptation).
-- Voice-command input system.
-- Cloud integration for multi-jurisdictional access.
-
----
-
 ## Note :-
 
 This project is developed for **academic and research purposes** to demonstrate the potential application of AI in law enforcement. Any implementation in real-world scenarios would require thorough testing, ethical review, and compliance with relevant legal frameworks.. For any external or commercial use, please contact the authors for permissions.
