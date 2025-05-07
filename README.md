@@ -20,7 +20,7 @@ To develop an intelligent and ethical system that:
 - **Text-to-Sketch Generation** using NLP and Stable Diffusion.
 - **Prompt Condensation** for efficient, structured AI inputs.
 - **RGB to Pencil Sketch Conversion** via OpenCV.<br>
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png" width="100">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png" width="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png" width="99">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png" width="100"/>
 
 - **Ethical AI Protocols** including bias mitigation and privacy protection.
 
