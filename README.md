@@ -20,7 +20,7 @@ To develop an intelligent and ethical system that:
 - **Text-to-Sketch Generation** using NLP and Stable Diffusion.
 - **Prompt Condensation** for efficient, structured AI inputs.
 - **RGB to Pencil Sketch Conversion** via OpenCV.<br>
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png" width="99">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png" width="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png" width="99">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png" width="100"/><br>
 
 - **Ethical AI Protocols** including bias mitigation and privacy protection.
 
@@ -33,7 +33,7 @@ To develop an intelligent and ethical system that:
 - **Natural Language Processing** for parsing user descriptions
 - **OpenCV** for image processing & sketch conversion
 - **FFHQ Dataset** for model training and evaluation<br>
-<img src="https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png" width="95">
+<img src="https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png" width="95"><br>
 - **Python** for backend implementation
 - **FID & Inception Score** for performance metrics
 
