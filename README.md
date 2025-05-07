@@ -53,7 +53,6 @@ To develop an intelligent and ethical system that:
 
 ## Model Training
 
-- **Dataset**: FFHQ dataset via Kaggle.
 - **Training Pipeline**:
   - Preprocessing and augmentation of images.
   - Fine-tuning Stable Diffusion using transfer learning.
