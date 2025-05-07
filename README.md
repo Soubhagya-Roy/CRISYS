@@ -35,7 +35,8 @@ To develop an intelligent and ethical system that:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRklXyWQy1ditXPl8oBPdbcdjxuiVU3Z3VA&s" width="100"><br>
 - **FFHQ Dataset** for model training and evaluation<br>
 <img src="https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png" width="200"><br>
-- **Python** for backend implementation
+- **Python** for backend implementation<br>
+<img src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" width="100"><br>
 - **FID & Inception Score** for performance metrics
 
 ---
